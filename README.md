@@ -9,3 +9,6 @@ In this challenge, I used SparkSQL to analyze home sales data to find the follow
 4. the "view" rating for homes costing >= $350,000
 
 I also used PySpark to create temporary views, partition data, as well as cache and uncache a temporary table.  
+
+### Analysis 
+Creating a “view” with uncached data took 1.55 seconds. Creating a “view” with cached data took 1.02 seconds. Creating a “view” with parquet formatted data took 0.70 seconds. Overall, parquet formatted data took the shortest amount of time, while uncached data took the longest amount of time. The time it took for cached data to complete the query was in between parquet formatted and uncached data. 
