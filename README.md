@@ -1,24 +1,9 @@
----
-title: "22: Big Data"
----
-<div id="bootcamp"><img style="display: none;" src="https://static.bc-edx.com/data/dl-1-2/m22/lms/img/banner.jpg" alt="lesson banner" />
+# Home_Sales
+
+Module 22 Challenge on Big Data
+
 
 In this challenge, you'll use your knowledge of SparkSQL to determine key metrics about home sales data. Then you'll use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
-
-### Before You Begin
-
-1. Create a new repository for this project called, `Home_Sales`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Push your changes to GitHub.
-
-### Files
-
-Download the following files to help you get started:
-
-[Module 22 Challenge files](https://static.bc-edx.com/data/dl-1-2/m22/lms/starter/Starter_Code.zip)
-
 
 ### Instructions
 
